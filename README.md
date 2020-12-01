@@ -1,5 +1,7 @@
 # pricey
 
+![goreleaser](https://github.com/axcdnt/pricey/workflows/goreleaser/badge.svg)
+
 Pricey is a pet project to explain crawling concepts with a "real" usecase. It was born after discussing Black Friday with a group of friends.
 It's backed by the cool library [colly](https://github.com/gocolly/colly).
 
